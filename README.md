@@ -129,10 +129,10 @@ Instala las extensiones recomendadas:
 
 El proyecto cuenta con dos entornos totalmente separados mediante **Flavors** y archivos `.env`:
 
-| Entorno / Flavor | Archivo | Nombre de la App | URL de la API |
+| Entorno / Flavor | Archivo | Nombre de la App |
 |---|---|---|---|
-| **`dev`** (Desarrollo / QA) | `.env.dev` | `Supervisores GT Dev` | `https://pruebasgenesys.tomzagroup.com/SupervisoresAPI/` |
-| **`prod`** (Producción) | `.env.prod` | `Supervisores GT` | `https://genesys.tomzagroup.com/SupervisoresAPI/` |
+| **`dev`** (Desarrollo / QA) | `.env.dev` | `Supervisores GT Dev` |
+| **`prod`** (Producción) | `.env.prod` | `Supervisores GT` |
 
 ### Estructura de Variables de Entorno
 Ejemplo de configuración en `.env.dev`:
